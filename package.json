@@ -1,10 +1,10 @@
 {
-  "name": "@sladg/nextjs-lambda",
-  "version": "6.2.0",
+  "name": "@mutantdave/nextjs-lambda",
+  "version": "6.3.0",
   "description": "Plug-and-play lambda for replacing default NextJS image optimization handler.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sladg/nextjs-lambda"
+    "url": "https://github.com/bounds/nextjs-lambda"
   },
   "license": "MIT",
   "author": "Jan Soukup <jan@ssoukup.com>",
